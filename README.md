@@ -362,6 +362,8 @@ const analysis = await legalBot.analyzeDocument({
   analysisType: 'contract-review'
 });
 ```
+## My Notes
+Testing local setup.
 
 ## 🧪 Testing
 
