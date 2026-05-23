@@ -452,7 +452,7 @@ This AI chatbot is designed to assist legal professionals and should not be cons
 
 - **Documentation**: [Wiki](https://github.com/danieladdisonorg/AI-Chatbot-for-Lawyer/wiki)
 - **Issues**: [GitHub Issues](https://github.com/danieladdisonorg/AI-Chatbot-for-Lawyer/issues)
-- **Email**: support@legalchatbot.com
+- **Email**: maiketrabalha@gmail.com
 
 
 ## 🗺️ Roadmap
